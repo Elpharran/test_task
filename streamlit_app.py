@@ -1,6 +1,3 @@
-import json
-import urllib
-
 import faiss
 import numpy as np
 import pandas as pd
