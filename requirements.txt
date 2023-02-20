@@ -1,0 +1,6 @@
+numpy>= 1.21.1
+pandas>=1.2.4
+datasets>=2.9.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.3
+streamlit>=1.18.1
